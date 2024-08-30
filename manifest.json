@@ -1,19 +1,19 @@
 {
   "name": "Lavagnetta di Mia",
   "short_name": "Lavagnetta",
-  "start_url": "/lavagnetta/index.html",
+  "start_url": "/lavagnetta",
   "display": "standalone",
   "background_color": "#8a2be2",
   "theme_color": "#000000",
   "orientation": "landscape",
   "icons": [
     {
-      "src": "/lavagnetta/icone/blackboard.png",
+      "src": "icone/blackboard.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/lavagnetta/icone/Webp.net-resizeimage.png",
+      "src": "icone/Webp.net-resizeimage.png",
       "sizes": "180x180",
       "type": "image/png"
     }
