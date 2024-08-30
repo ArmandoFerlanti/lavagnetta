@@ -1,0 +1,59 @@
+body {
+  background-color: #8a2be2;
+  font-family: "Oooh Baby", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#titolo {
+  text-align: center;
+  padding: 10px;
+  font-size: xxx-large;
+}
+
+#wrapper-titolo {
+  display: flex;
+  justify-content: center;
+}
+
+#cuore {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  animation-name: animazione;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+  animation-direction: alternate;
+}
+
+#lavagna-container {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+
+#lavagna {
+  background-color: green;
+  width: 1157px;
+  height: 600px;
+  border: 25px;
+  border-style: solid;
+  font-size: xx-large;
+  padding: 5px;
+  color: aliceblue;
+  border-color: peru;
+  overflow: hidden;
+  font-family: cursive;
+  resize: none;
+}
+
+@keyframes animazione {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(
+      1.2
+    ); /* Scala l'elemento al 120% della larghezza originale */
+  }
+}
