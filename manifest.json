@@ -8,12 +8,12 @@
   "orientation": "landscape",
   "icons": [
     {
-      "src": "/icone/blackboard.png",
+      "src": "/lavagnetta/icone/blackboard.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icone/Webp.net-resizeimage.png",
+      "src": "/lavagnetta/icone/Webp.net-resizeimage.png",
       "sizes": "180x180",
       "type": "image/png"
     }
