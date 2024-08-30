@@ -1,7 +1,7 @@
 {
   "name": "Lavagnetta di Mia",
   "short_name": "Lavagnetta",
-  "start_url": "/index.html",
+  "start_url": "/lavagnetta/index.html",
   "display": "standalone",
   "background_color": "#8a2be2",
   "theme_color": "#000000",
